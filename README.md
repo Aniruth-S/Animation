@@ -1,9 +1,12 @@
 # Animation
 # EX:NO:06 IMPLEMENTATION OF ANIMATION IN ANDROID APPLICATIONS.
-## Aim:
-To create and design an android application to implement the animations using android studio.
+# Ex.No: 06 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+
+## AIM:
+To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
+
 Android Studio(Latest Version)
 
 ## ALGORITHM:
@@ -22,9 +25,17 @@ Step 6:Display details give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-Program to create and design an android application to implement the animations in android studio.
+```
+/*
+Program to display animation operation”.
+Developed by: Aniruth S
+Registeration Number : 212225040020
+*/
+```
 
-## OUTPUT:
+## OUTPUT
 
-## RESULT:
-Thus a Simple Android Application create a addition for two numbers using Android Studio is developed and executed successfully.
+
+
+
+## RESULT
