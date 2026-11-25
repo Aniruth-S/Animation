@@ -64,7 +64,7 @@ Registeration Number : 212225040020
         android:layout_height="200dp"
         android:layout_marginTop="40dp"
         android:contentDescription="@string/app_name"
-        android:src="@drawable/icon" />
+        android:src="@drawable/heiest" />
 
     <LinearLayout
         android:id="@+id/linear1"
@@ -329,20 +329,11 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![alt text](image-7.png)
+```
+![alt text](<Screenshot 2026-11-25 101824.png>)
 
-![alt text](image.png)
-**blink**
-![alt text](image-1.png)
-**rotate**
-![alt text](image-2.png)
-**fade**
-![alt text](image-3.png)
-**move**
-![alt text](image-4.png)
-**slide**
-![alt text](image-5.png)
-**Zoom**
-![alt text](image-6.png)
+<video controls src="Screen Recording 2026-11-25 101759.mp4" title="Title"></video>
+
+```
 ## RESULT
 Thus the android application to demonstrate the animation using android studio has been created and successfully executed.
