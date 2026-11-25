@@ -332,7 +332,6 @@ public class MainActivity extends AppCompatActivity {
 
 ![alt text](<Screenshot 2026-11-25 101824.png>)
 
-<video controls src="Screen Recording 2026-11-25 101759.mp4" title="Title"></video>
 
 
 ## RESULT
