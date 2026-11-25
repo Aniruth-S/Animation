@@ -329,11 +329,11 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-```
+
 ![alt text](<Screenshot 2026-11-25 101824.png>)
 
 <video controls src="Screen Recording 2026-11-25 101759.mp4" title="Title"></video>
 
-```
+
 ## RESULT
 Thus the android application to demonstrate the animation using android studio has been created and successfully executed.
